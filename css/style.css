@@ -1,0 +1,28 @@
+h1{
+    color: red;
+}
+body{
+    background-color: #faebd6;
+}
+h1+p{
+    color: #a42423;
+}
+p~p{
+    color:#00008f;font-size: x-large;
+}
+h1+p{
+    font-size: x-large;
+}
+h1+p{
+    font-size: xx-large;
+}
+h1+p{
+    font-size: larger;
+}
+p{
+    font-size: xx-large;
+}
+p{
+    font-size: x-large;color:#a42423
+    }
+    
